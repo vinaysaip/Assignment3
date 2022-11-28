@@ -19,7 +19,7 @@ const BodyComponent = () => {
     <div>
       <h1>Namaste React!!</h1>
       <h2>Zero to Hero</h2>
-      <h3>in 3 months</h3>
+      <h3>in 3 months.</h3>
     </div>
   );
 };
